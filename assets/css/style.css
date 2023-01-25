@@ -1,0 +1,184 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Cabin';
+
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+   
+}
+
+.container{
+    padding: 0 7%;
+}
+
+.hr_top {
+    margin-top: 13px;
+    margin-bottom: 14px;
+    color: #000000;
+  }
+
+.navbar-dark .navbar-brand{
+    color: #FFFFFF;
+    font-family:'Lobster';
+    font-size: 37px;
+}
+
+h1{
+    font-weight: 700;
+    font-size: 40px;
+    ;
+}
+
+.title_2{
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.img_ppal{
+    width: 100%;
+}
+
+.btn {
+    margin-left: 2%;
+    margin-top: 1%;
+    font-weight: 400;
+    color: #000000;
+    font-family: 'Cabin';
+}
+
+.ingredientes{
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.preparacion{
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.subtitle{
+    font-weight: 400;
+    font-size: 20px;
+
+}
+
+.receta1{
+    list-style: none;
+    padding-left: 0%;
+    font-weight: 400;
+    font-size: 20px;
+    
+}
+
+.card{
+    display: inline-block;
+}
+
+.card-title1{
+    font-weight: 700;
+    font-size: 23px;
+}
+
+.card-title2{
+    font-weight: 700;
+    font-size: 23px;
+}
+
+.card-title3{
+    font-weight: 700;
+    font-size: 23px;
+}
+
+
+.card-text{
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.tarj_titulo{
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px
+}
+
+#newsletter{
+    text-align: center;
+    background-color: #dc3545 ;
+    height: 500px;
+}
+
+.boton {
+    color: #FFFFFF;
+}
+
+.text_news{
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 40px;
+    padding-top: 14%;
+}
+
+.text_news2{
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 30px;
+}
+
+.logo_footer{
+    color: #FFFFFF;
+    font-family: 'Lobster';
+    font-weight: 400;
+    font-size: 30px;
+
+}
+
+footer{
+    background-color: #373A3C;
+    height: 120px;
+}
+
+.texto_footer {
+    font-family: 'Lobster';
+    font-weight: 400;
+    font-size: 37px;
+    color: #FFFFFF;
+    text-align: center;
+    padding-top: 2%;
+}
+
+form {
+    padding: 100px 500px 200px;
+    margin-top: 13px;
+    margin-bottom: 14px;
+    color: #000000;
+}
+
+.tituloForm {
+    padding-top: 100px;
+}
+
+.contacto {
+    margin-left:100px;
+}
+
+.cardUs {
+    margin: 100px auto;
+}
+
+.card-bodyUs {
+    padding : 25px 50px 75px 200px;
+}
+
+.card-textUs {
+    padding: 0px 200px;
+}
+
+
